@@ -1,2 +1,2 @@
-test
+Manipulating with JS objects
 ====
